@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "c:\\pgwebl\\ResponsiPGWL\\database\\database.sqlite"
+  }
+]
